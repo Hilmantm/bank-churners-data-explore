@@ -1,0 +1,32 @@
+{
+    "id": "BDE1B7B3",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1609214145227.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "expression": "BankChurners",
+        "caption": "BankChurners",
+        "totalObservations": 10127,
+        "displayedObservations": 10127,
+        "variables": 23,
+        "cacheKey": "F7D4FE6B",
+        "object": "BankChurners",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=BankChurners&cache_key=F7D4FE6B&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 15762899349536883,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1609214145227,
+    "read_only": false,
+    "read_only_alternatives": []
+}
